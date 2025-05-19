@@ -1,4 +1,6 @@
-项目结构：
+# Caltech-101图像分类实战：ResNet18微调与超参搜索
+
+###项目架构
 resnet101_finetune/
 ├── data/101_ObjectCategories/      # 数据集根目录
 ├── hp_search_results/              # 超参搜索结果
