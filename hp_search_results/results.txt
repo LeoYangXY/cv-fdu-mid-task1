@@ -1,0 +1,9 @@
+lr=0.1, epochs=20: Test Acc=89.14% | Train Loss=0.0001, Test Loss=0.6639
+lr=0.1, epochs=30: Test Acc=89.16% | Train Loss=0.0015, Test Loss=0.6215
+lr=0.1, epochs=50: Test Acc=88.97% | Train Loss=0.0000, Test Loss=0.6972
+lr=0.01, epochs=20: Test Acc=88.72% | Train Loss=0.0072, Test Loss=0.3848
+lr=0.01, epochs=30: Test Acc=88.83% | Train Loss=0.0063, Test Loss=0.3857
+lr=0.01, epochs=50: Test Acc=89.09% | Train Loss=0.0063, Test Loss=0.3826
+lr=0.001, epochs=20: Test Acc=85.25% | Train Loss=0.0504, Test Loss=0.9749
+lr=0.001, epochs=30: Test Acc=86.79% | Train Loss=0.0525, Test Loss=0.9459
+lr=0.001, epochs=50: Test Acc=84.65% | Train Loss=0.0578, Test Loss=0.9505
